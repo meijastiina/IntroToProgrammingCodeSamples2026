@@ -27,7 +27,7 @@ console.log("x = " + x + " y = " + y + " z = " + z);
 console.log(10 % 3);
 
 /* Task 6
-
+Foobar
 
 */
 let x2 = 5;
