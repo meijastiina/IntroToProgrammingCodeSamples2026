@@ -29,6 +29,7 @@ console.log(10 % 3);
 /* Task 6
 Foobar
 Foo
+Another Foobar
 */
 let x2 = 5;
 let y2 = "5";
